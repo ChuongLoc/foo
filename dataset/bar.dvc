@@ -1,0 +1,5 @@
+outs:
+- md5: 7ab2e3626e7f0117e2b82eceddf8f83b.dir
+  size: 13
+  nfiles: 1
+  path: bar
